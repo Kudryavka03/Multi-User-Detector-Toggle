@@ -1,0 +1,16 @@
+G:\Coding\Multi-User Detector\Multi-User Detector Toggle\Multi-User Detector Toggle\bin\Debug\net5.0\Multi-User Detector Toggle.exe
+G:\Coding\Multi-User Detector\Multi-User Detector Toggle\Multi-User Detector Toggle\bin\Debug\net5.0\Multi-User Detector Toggle.deps.json
+G:\Coding\Multi-User Detector\Multi-User Detector Toggle\Multi-User Detector Toggle\bin\Debug\net5.0\Multi-User Detector Toggle.runtimeconfig.json
+G:\Coding\Multi-User Detector\Multi-User Detector Toggle\Multi-User Detector Toggle\bin\Debug\net5.0\Multi-User Detector Toggle.runtimeconfig.dev.json
+G:\Coding\Multi-User Detector\Multi-User Detector Toggle\Multi-User Detector Toggle\bin\Debug\net5.0\Multi-User Detector Toggle.dll
+G:\Coding\Multi-User Detector\Multi-User Detector Toggle\Multi-User Detector Toggle\bin\Debug\net5.0\Multi-User Detector Toggle.pdb
+G:\Coding\Multi-User Detector\Multi-User Detector Toggle\Multi-User Detector Toggle\obj\Debug\net5.0\Multi-User Detector Toggle.csproj.AssemblyReference.cache
+G:\Coding\Multi-User Detector\Multi-User Detector Toggle\Multi-User Detector Toggle\obj\Debug\net5.0\Multi-User Detector Toggle.GeneratedMSBuildEditorConfig.editorconfig
+G:\Coding\Multi-User Detector\Multi-User Detector Toggle\Multi-User Detector Toggle\obj\Debug\net5.0\Multi-User Detector Toggle.AssemblyInfoInputs.cache
+G:\Coding\Multi-User Detector\Multi-User Detector Toggle\Multi-User Detector Toggle\obj\Debug\net5.0\Multi-User Detector Toggle.AssemblyInfo.cs
+G:\Coding\Multi-User Detector\Multi-User Detector Toggle\Multi-User Detector Toggle\obj\Debug\net5.0\Multi-User Detector Toggle.csproj.CoreCompileInputs.cache
+G:\Coding\Multi-User Detector\Multi-User Detector Toggle\Multi-User Detector Toggle\obj\Debug\net5.0\Multi-User Detector Toggle.dll
+G:\Coding\Multi-User Detector\Multi-User Detector Toggle\Multi-User Detector Toggle\obj\Debug\net5.0\refint\Multi-User Detector Toggle.dll
+G:\Coding\Multi-User Detector\Multi-User Detector Toggle\Multi-User Detector Toggle\obj\Debug\net5.0\Multi-User Detector Toggle.pdb
+G:\Coding\Multi-User Detector\Multi-User Detector Toggle\Multi-User Detector Toggle\obj\Debug\net5.0\Multi-User Detector Toggle.genruntimeconfig.cache
+G:\Coding\Multi-User Detector\Multi-User Detector Toggle\Multi-User Detector Toggle\obj\Debug\net5.0\ref\Multi-User Detector Toggle.dll
